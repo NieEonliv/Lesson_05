@@ -6,7 +6,7 @@ if ivan + mike < minSum:
     print(0)
     exit()
 
-if ivan >= minSum & mike >= minSum:
+if ivan >= minSum and mike >= minSum:
     print(2)
     exit()
 
